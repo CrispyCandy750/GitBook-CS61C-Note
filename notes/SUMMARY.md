@@ -13,5 +13,5 @@
 * [Lec03-C Intro: Basics](lec03-c-intro-basics/README.md)
   * [03.1-Intro and Background](lec03-c-intro-basics/03.1-intro-and-background.md)
   * [03.2-Compile vs. Interpret](lec03-c-intro-basics/03.2-compile-vs.-interpret.md)
-  * [03.3-C vs. Java and C Syntax](lec03-c-intro-basics/03.3-c-vs.-java-and-c-syntax.md)
+  * [03.3-C vs. Java and C Versions](lec03-c-intro-basics/03.3-c-vs.-java-and-c-syntax.md)
   * [03.4-C Syntax](lec03-c-intro-basics/03.4-c-syntax.md)
