@@ -15,3 +15,8 @@
   * [03.2-Compile vs. Interpret](lec03-c-intro-basics/03.2-compile-vs.-interpret.md)
   * [03.3-C vs. Java and C Versions](lec03-c-intro-basics/03.3-c-vs.-java-and-c-syntax.md)
   * [03.4-C Syntax](lec03-c-intro-basics/03.4-c-syntax.md)
+* [Lec04-C Intro: Pointers, Arrays, Strings](lec04-c-intro-pointers-arrays-strings/README.md)
+  * [04.1-Pointers and Bugs](lec04-c-intro-pointers-arrays-strings/04.1-pointers-and-bugs.md)
+  * [04.2-Using Pointers Effectively](lec04-c-intro-pointers-arrays-strings/04.2-using-pointers-effectively.md)
+  * [04.3-Arrays](lec04-c-intro-pointers-arrays-strings/04.3-arrays.md)
+  * [04.4-Function Pointer Example](lec04-c-intro-pointers-arrays-strings/04.4-function-pointer-example.md)
