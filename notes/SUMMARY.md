@@ -24,5 +24,5 @@
   * [05.1-Dynamic Memory Allocation](lec05-c-memory-management/05.1-dynamic-memory-allocation.md)
   * [05.2-Linked List Example](lec05-c-memory-management/05.2-linked-list-example.md)
   * [05.3-Memory Locations](lec05-c-memory-management/05.3-memory-locations.md)
-  * [05.4-Memory Management](lec05-c-memory-management/05.4-memory-management.md)
+  *  [05.4-Heap, Implementation Of Malloc&Free](lec05-c-memory-management\05.4-heap-implementation-of-malloc-free.md) 
   * [05.5-When Memory Goes Bad](lec05-c-memory-management/05.5-when-memory-goes-bad.md)
