@@ -27,7 +27,6 @@
   * [05.4-Heap, Implementation Of Malloc\&Free](lec05-c-memory-management/05.4-heap-implementation-of-malloc-and-free.md)
   * [05.5-When Memory Goes Bad](lec05-c-memory-management/05.5-when-memory-goes-bad.md)
 * [Lec06-Floating Point](lec06-floating-point/README.md)
-  * [LIVE - Floating Point & RISC-V](lec06-floating-point/live-floating-point-and-risc-v.md)
   * [06.1-Basics & Fixed Point](lec06-floating-point/06.1-basics-and-fixed-point.md)
   * [06.2-Floating Point](lec06-floating-point/06.2-floating-point.md)
   * [06.3-Special Numbers](lec06-floating-point/06.3-special-numbers.md)
