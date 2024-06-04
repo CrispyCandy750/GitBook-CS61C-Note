@@ -38,3 +38,7 @@
   * [07.2-Register, Assembly Language](lec07-risc-v-intro/07.2-elements-of-architecture-registers.md)
   * [07.3-RISC-V add/sub Instructions](lec07-risc-v-intro/07.3-risc-v-add-sub-instructions.md)
   * [07.4-RISC-V Immediates](lec07-risc-v-intro/07.4-risc-v-immediates.md)
+* [Lec08-RISC-V lw, sw, Decisions I](lec08-risc-v-lw-sw-decisions-i/README.md)
+  * [08.1-Storing in Memory](lec08-risc-v-lw-sw-decisions-i/08.1-storing-in-memory.md)
+  * [08.2-Data Transfer Instructions](lec08-risc-v-lw-sw-decisions-i/08.2-data-transfer-instructions.md)
+  * [08.3-Decision Making](lec08-risc-v-lw-sw-decisions-i/08.3-decision-making.md)
