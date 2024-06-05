@@ -42,3 +42,7 @@
   * [08.1-Storing in Memory](lec08-risc-v-lw-sw-decisions-i/08.1-storing-in-memory.md)
   * [08.2-Data Transfer Instructions](lec08-risc-v-lw-sw-decisions-i/08.2-data-transfer-instructions.md)
   * [08.3-Decision Making](lec08-risc-v-lw-sw-decisions-i/08.3-decision-making.md)
+* [Lec09-RISC-V Decisions II](lec09-risc-v-decisions-ii/README.md)
+  * [09.1-Logical Instructions](lec09-risc-v-decisions-ii/09.1-logical-instructions.md)
+  * [09.2-A Bit About Machine Program](lec09-risc-v-decisions-ii/09.2-a-bit-about-machine-program.md)
+  * [09.3-RISC-V Function Calls](lec09-risc-v-decisions-ii/09.3-risc-v-function-calls.md)
