@@ -48,6 +48,6 @@
   * [09.3-RISC-V Function Calls](lec09-risc-v-decisions-ii/09.3-risc-v-function-calls.md)
 * [Lec10-RISC-V Procedures](lec10-risc-v-procedures/README.md)
   * [10.1-Function Call Example](lec10-risc-v-procedures/10.1-function-call-example.md)
-  * [10.2-Register Conventions](lec10-risc-v-procedures/10.2-register-conventions.md)
+  * [10.2-Nested Calls & Register Conventions](lec10-risc-v-procedures/10.2-nested-calls-and-register-conventions.md)
   * [10.3-Memory Allocation](lec10-risc-v-procedures/10.3-memory-allocation.md)
   * [10.4-Summary](lec10-risc-v-procedures/10.4-summary.md)
