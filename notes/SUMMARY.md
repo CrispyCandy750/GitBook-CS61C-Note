@@ -59,6 +59,6 @@
   * [11.5-S-Format](lec11-risc-v-instruction-formats-i/11.5-s-format.md)
 * [Lec12-RISC-V Instruction Formats II](lec12-risc-v-instruction-formats-ii/README.md)
   * [12.1-B-Format](lec12-risc-v-instruction-formats-ii/12.1-b-format.md)
-  * [12.2-Upper Immediates](lec12-risc-v-instruction-formats-ii/12.2-upper-immediates.md)
+  * [12.2-Upper Immediates(U-Format)](lec12-risc-v-instruction-formats-ii/12.2-upper-immediates.md)
   * [12.3-J-Format](lec12-risc-v-instruction-formats-ii/12.3-j-format.md)
   * [12.4-Summary](lec12-risc-v-instruction-formats-ii/12.4-summary.md)
