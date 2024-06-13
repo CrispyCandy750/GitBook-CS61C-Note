@@ -85,3 +85,8 @@
   * [16.3-Boolean Algebra](lec16-combinational-logic/16.3-boolean-algebra.md)
   * [16.4-Laws of Boolean Algebra](lec16-combinational-logic/16.4-laws-of-boolean-algebra.md)
   * [16.5-Canonical Forms](lec16-combinational-logic/16.5-canonical-forms.md)
+* [Lec17-Combinational Logic Blocks](lec17-combinational-logic-blocks/README.md)
+  * [17.1-Data Multiplexors](lec17-combinational-logic-blocks/17.1-data-multiplexors.md)
+  * [17.2-ALU](lec17-combinational-logic-blocks/17.2-alu.md)
+  * [17.3-Adder/Subtractor](lec17-combinational-logic-blocks/17.3-adder-subtractor.md)
+  * [17.4-Subtractor Design](lec17-combinational-logic-blocks/17.4-subtractor-design.md)
