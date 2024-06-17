@@ -110,3 +110,8 @@
   * [20.3-Instruction Timing](lec20-single-cycle-cpu-control/20.3-instruction-timing.md)
   * [20.4-Control Logic Design](lec20-single-cycle-cpu-control/20.4-control-logic-design.md)
   * [20.5-Milestone Summary](lec20-single-cycle-cpu-control/20.5-control-logic-summary.md)
+* [Lec21-Pipelining I](lec21-pipelining-i/README.md)
+  * [21.1-Pipelining](lec21-pipelining-i/21.1-pipelining.md)
+  * [21.2-Processor Performance Iron Law](lec21-pipelining-i/21.2-processor-performance-iron-law.md)
+  * [21.3-Energy Efficiency](lec21-pipelining-i/21.3-energy-efficiency.md)
+  * [21.4-Introduction to Pipelining](lec21-pipelining-i/21.4-introduction-to-pipelining.md)
