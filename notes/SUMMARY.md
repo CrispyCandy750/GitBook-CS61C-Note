@@ -109,4 +109,4 @@
   * [20.2-Datapath Control](lec20-single-cycle-cpu-control/20.2-datapath-control.md)
   * [20.3-Instruction Timing](lec20-single-cycle-cpu-control/20.3-instruction-timing.md)
   * [20.4-Control Logic Design](lec20-single-cycle-cpu-control/20.4-control-logic-design.md)
-  * [20.5-Control Logic Summary](lec20-single-cycle-cpu-control/20.5-control-logic-summary.md)
+  * [20.5-Milestone Summary](lec20-single-cycle-cpu-control/20.5-control-logic-summary.md)
