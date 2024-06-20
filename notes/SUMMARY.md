@@ -120,3 +120,7 @@
   * [22.2-Pipelining Datapath](lec22-pipelining-ii/22.2-pipelining-datapath.md)
   * [22.3-Pipeline Hazards](lec22-pipelining-ii/22.3-pipeline-hazards.md)
   * [22.4-Data Hazards](lec22-pipelining-ii/22.4-data-hazards.md)
+* [Lec23-Pipelining III](lec23-pipelining-iii/README.md)
+  * [23.1-Load Data Hazard](lec23-pipelining-iii/23.1-load-data-hazard.md)
+  * [23.2-Control Hazards](lec23-pipelining-iii/23.2-control-hazards.md)
+  * [23.3-Superscalar](lec23-pipelining-iii/23.3-superscalar.md)
