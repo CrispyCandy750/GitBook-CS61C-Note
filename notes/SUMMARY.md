@@ -117,6 +117,6 @@
   * [21.4-Introduction to Pipelining](lec21-pipelining-i/21.4-introduction-to-pipelining.md)
 * [Lec22-Pipelining II](lec22-pipelining-ii/README.md)
   * [22.1-Pipelining RISC-V](lec22-pipelining-ii/22.1-pipelining-risc-v.md)
-  * [22.2-Pipeline Hazards](lec22-pipelining-ii/22.2-pipeline-hazards.md)
-  * [22.3-Pipelining Datapath](lec22-pipelining-ii/22.3-pipelining-datapath.md)
+  * [22.2-Pipelining Datapath](lec22-pipelining-ii/22.2-pipelining-datapath.md)
+  * [22.3-Pipeline Hazards](lec22-pipelining-ii/22.3-pipeline-hazards.md)
   * [22.4-Data Hazards](lec22-pipelining-ii/22.4-data-hazards.md)
