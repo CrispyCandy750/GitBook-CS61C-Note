@@ -124,3 +124,8 @@
   * [23.1-Load Data Hazard](lec23-pipelining-iii/23.1-load-data-hazard.md)
   * [23.2-Control Hazards](lec23-pipelining-iii/23.2-control-hazards.md)
   * [23.3-Superscalar](lec23-pipelining-iii/23.3-superscalar.md)
+* [Lec24-Caches I](lec24-caches-i/README.md)
+  * [24.1-Binary Prefix](lec24-caches-i/24.1-binary-prefix.md)
+  * [24.2-Library Analogy](lec24-caches-i/24.2-library-analogy.md)
+  * [24.3-Memory Hierarchy](lec24-caches-i/24.3-memory-hierarchy.md)
+  * [24.4-Locality, Design, Management](lec24-caches-i/24.4-locality-design-management.md)
