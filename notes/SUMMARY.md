@@ -129,3 +129,7 @@
   * [24.2-Library Analogy](lec24-caches-i/24.2-library-analogy.md)
   * [24.3-Memory Hierarchy](lec24-caches-i/24.3-memory-hierarchy.md)
   * [24.4-Locality, Design, Management](lec24-caches-i/24.4-locality-design-management.md)
+* [Lec25-Caches II](lec25-caches-ii/README.md)
+  * [25.1-Direct Mapped Caches](lec25-caches-ii/25.1-direct-mapped-caches.md)
+  * [25.2-Direct Mapped Example](lec25-caches-ii/25.2-direct-mapped-example.md)
+  * [25.3-Cache Terminology](lec25-caches-ii/25.3-cache-terminology.md)
