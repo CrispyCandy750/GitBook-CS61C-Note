@@ -132,4 +132,4 @@
 * [Lec25-Caches II](lec25-caches-ii/README.md)
   * [25.1-Direct Mapped Caches](lec25-caches-ii/25.1-direct-mapped-caches.md)
   * [25.2-Direct Mapped Example](lec25-caches-ii/25.2-direct-mapped-example.md)
-  * [25.3-Cache Terminology](lec25-caches-ii/25.3-cache-terminology.md)
+  * [25.3-Cache Terminology & Valid bit](lec25-caches-ii/25.3-cache-terminology-valid-bit.md)
