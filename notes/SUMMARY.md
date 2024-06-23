@@ -133,3 +133,7 @@
   * [25.1-Direct Mapped Caches](lec25-caches-ii/25.1-direct-mapped-caches.md)
   * [25.2-Direct Mapped Example](lec25-caches-ii/25.2-direct-mapped-example.md)
   * [25.3-Cache Terminology & Valid bit](lec25-caches-ii/25.3-cache-terminology-valid-bit.md)
+* [Lec26-Caches III](lec26-caches-iii/README.md)
+  * [26.1-Direct Mapped Example](lec26-caches-iii/26.1-direct-mapped-example.md)
+  * [26.2-Writes, Block Sizes, Misses](lec26-caches-iii/26.2-writes-block-sizes-misses.md)
+  * [26.3-Fully Associative Caches](lec26-caches-iii/26.3-fully-associative-caches.md)
