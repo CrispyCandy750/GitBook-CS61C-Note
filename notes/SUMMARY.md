@@ -137,3 +137,8 @@
   * [26.1-Direct Mapped Example](lec26-caches-iii/26.1-direct-mapped-example.md)
   * [26.2-Multiword Cache, Writes, Block Sizes, Misses](lec26-caches-iii/26.2-multiword-cache-writes-block-sizes-misses.md)
   * [26.3-Fully Associative Caches](lec26-caches-iii/26.3-fully-associative-caches.md)
+* [Lec27-Caches IV](lec27-caches-iv/README.md)
+  * [27.1-Set-Associative Caches](lec27-caches-iv/27.1-set-associative-caches.md)
+  * [27.2-Block Replacement with Example](lec27-caches-iv/27.2-block-replacement-with-example.md)
+  * [27.3-Average Memory Access Time (AMAT)](lec27-caches-iv/27.3-average-memory-access-time-amat.md)
+  * [27.4-Actual CPUs](lec27-caches-iv/27.4-actual-cpus.md)
