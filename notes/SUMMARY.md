@@ -152,3 +152,8 @@
   * [29.3-Memory Manager](lec29-virtual-memory-i/29.3-memory-manager.md)
   * [29.4-Paged Memory](lec29-virtual-memory-i/29.4-paged-memory.md)
   * [29.5-Data Unit, Memory Access, Page Faults, Write-Back](lec29-virtual-memory-i/29.5-data-unit-memory-access-page-faults-write-back.md)
+* [Lec30-Virtual Memory II](lec30-virtual-memory-ii/README.md)
+  * [30.1-Hierarchical Page Tables](lec30-virtual-memory-ii/30.1-hierarchical-page-tables.md)
+  * [30.2-Translation Lookaside Buffers (TLB)](lec30-virtual-memory-ii/30.2-translation-lookaside-buffers-tlb.md)
+  * [30.3-TLBs in Datapath](lec30-virtual-memory-ii/30.3-tlbs-in-datapath.md)
+  * [30.4-VM Performance](lec30-virtual-memory-ii/30.4-vm-performance.md)
