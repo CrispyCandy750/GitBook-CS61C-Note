@@ -170,3 +170,8 @@
   * [32.4-SIMD Architectures](lec32-flynn-taxonomy-simd-instructions/32.4-simd-architectures.md)
   * [32.5-SIMD Array Processing](lec32-flynn-taxonomy-simd-instructions/32.5-simd-array-processing.md)
   * [32.6-Matrix Multiply Example](lec32-flynn-taxonomy-simd-instructions/32.6-matrix-multiply-example.md)
+* [Lec33-Thread-Level Parallelism I](lec33-thread-level-parallelism-i/README.md)
+  * [33.1-Parallel Computer Architectures](lec33-thread-level-parallelism-i/33.1-parallel-computer-architectures.md)
+  * [33.2-Multicore](lec33-thread-level-parallelism-i/33.2-multicore.md)
+  * [33.3-Threads](lec33-thread-level-parallelism-i/33.3-threads.md)
+  * [33.4-Multithreading](lec33-thread-level-parallelism-i/33.4-multithreading.md)
