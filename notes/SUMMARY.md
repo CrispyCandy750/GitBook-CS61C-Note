@@ -175,3 +175,8 @@
   * [33.2-Multicore](lec33-thread-level-parallelism-i/33.2-multicore.md)
   * [33.3-Threads](lec33-thread-level-parallelism-i/33.3-threads.md)
   * [33.4-Multithreading](lec33-thread-level-parallelism-i/33.4-multithreading.md)
+* [Lec34-Thread-Level Parallelism II](lec34-thread-level-parallelism-ii/README.md)
+  * [34.1-Parallel Programming Languages](lec34-thread-level-parallelism-ii/34.1-parallel-programming-languages.md)
+  * [34.2-OpenMP](lec34-thread-level-parallelism-ii/34.2-openmp.md)
+  * [34.3-Computing π](lec34-thread-level-parallelism-ii/34.3-computing-p.md)
+  * [34.4-Synchronization](lec34-thread-level-parallelism-ii/34.4-synchronization.md)
