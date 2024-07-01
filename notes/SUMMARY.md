@@ -180,3 +180,7 @@
   * [34.2-OpenMP](lec34-thread-level-parallelism-ii/34.2-openmp.md)
   * [34.3-Computing π](lec34-thread-level-parallelism-ii/34.3-computing-p.md)
   * [34.4-Lock Synchronization](lec34-thread-level-parallelism-ii/34.4-lock-synchronization.md)
+* [Lec35-Thread-Level Parallelism III](lec35-thread-level-parallelism-iii/README.md)
+  * [35.1-Hardware Synchronization](lec35-thread-level-parallelism-iii/35.1-hardware-synchronization.md)
+  * [35.2-Shared Memory and Caches](lec35-thread-level-parallelism-iii/35.2-shared-memory-and-caches.md)
+  * [35.3-Cache Coherency](lec35-thread-level-parallelism-iii/35.3-cache-coherency.md)
