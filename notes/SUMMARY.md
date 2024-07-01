@@ -179,4 +179,4 @@
   * [34.1-Parallel Programming Languages](lec34-thread-level-parallelism-ii/34.1-parallel-programming-languages.md)
   * [34.2-OpenMP](lec34-thread-level-parallelism-ii/34.2-openmp.md)
   * [34.3-Computing π](lec34-thread-level-parallelism-ii/34.3-computing-p.md)
-  * [34.4-Synchronization](lec34-thread-level-parallelism-ii/34.4-synchronization.md)
+  * [34.4-Lock Synchronization](lec34-thread-level-parallelism-ii/34.4-lock-synchronization.md)
