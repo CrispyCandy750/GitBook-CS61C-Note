@@ -182,7 +182,7 @@
   * [34.4-Lock Synchronization](lec34-thread-level-parallelism-ii/34.4-lock-synchronization.md)
 * [Lec35-Thread-Level Parallelism III](lec35-thread-level-parallelism-iii/README.md)
   * [35.1-Hardware Synchronization, Deadlock, Livelock & OpenMP Timing](lec35-thread-level-parallelism-iii/35.1-hardware-synchronization-deadlock-livelock-openmp-timing.md)
-  * [35.2-Shared Memory and Caches](lec35-thread-level-parallelism-iii/35.2-shared-memory-and-caches.md)
+  * [35.2-Shared Memory and Caches, SMP](lec35-thread-level-parallelism-iii/35.2-shared-memory-and-caches-smp.md)
   * [35.3-Cache Coherency](lec35-thread-level-parallelism-iii/35.3-cache-coherency.md)
 * [Lec36-MapReduce, Spark](lec36-mapreduce-spark/README.md)
   * [36.1-Amdahl's Law](lec36-mapreduce-spark/36.1-amdahls-law.md)
