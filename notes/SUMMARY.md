@@ -184,7 +184,7 @@
   * [35.1-Hardware Synchronization, Deadlock, Livelock & OpenMP Timing](lec35-thread-level-parallelism-iii/35.1-hardware-synchronization-deadlock-livelock-openmp-timing.md)
   * [35.2-Shared Memory and Caches, SMP](lec35-thread-level-parallelism-iii/35.2-shared-memory-and-caches-smp.md)
   * [35.3-Cache Coherency](lec35-thread-level-parallelism-iii/35.3-cache-coherency.md)
-* [Lec36-MapReduce, Spark](lec36-mapreduce-spark/README.md)
+* [Lec36-MapReduce, Spark (Big Data)](lec36-mapreduce-spark/README.md)
   * [36.1-Amdahl's Law](lec36-mapreduce-spark/36.1-amdahls-law.md)
   * [36.2-Request-Level and Data-Level Parallelism](lec36-mapreduce-spark/36.2-request-level-and-data-level-parallelism.md)
   * [36.3-MapReduce](lec36-mapreduce-spark/36.3-mapreduce.md)
