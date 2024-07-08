@@ -192,7 +192,7 @@
 * [Lec37-Data Centers, Cloud Computing (WSC)](lec37-data-centers-cloud-computing-wsc/README.md)
   * [37.1-Eras of Computing Hardware](lec37-data-centers-cloud-computing-wsc/37.1-eras-of-computing-hardware.md)
   * [37.2-Warehouse Scale Computers](lec37-data-centers-cloud-computing-wsc/37.2-warehouse-scale-computers.md)
-  * [37.3-Power Usage Effectiveness (PUE)](lec37-data-centers-cloud-computing-wsc/37.3-power-usage-effectiveness-pue.md)
+  * [37.3-Workload Variation, SW Problems, PUE](lec37-data-centers-cloud-computing-wsc/37.3-workload-variation-sw-problems-pue.md)
 * [Lec38-Dependability- Parity, ECC, RAID](lec38-dependability-parity-ecc-raid/README.md)
   * [38.1-Intro](lec38-dependability-parity-ecc-raid/38.1-intro.md)
   * [38.2-Dependability Metrics](lec38-dependability-parity-ecc-raid/38.2-dependability-metrics.md)
