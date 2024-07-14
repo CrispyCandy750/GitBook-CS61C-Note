@@ -77,7 +77,7 @@
   * [15.1-Accumulator](lec15-state-state-machines/15.1-accumulator.md)
   * [15.2-Register Details Flip-flops](lec15-state-state-machines/15.2-register-details-flip-flops.md)
   * [15.3-Accumulator revisited](lec15-state-state-machines/15.3-accumulator-revisited.md)
-  * [15.4-Pipelining for Performance](lec15-state-state-machines/15.4-pipelining-for-performance.md)
+  * [15.4-Pipelining for Performanc](lec15-state-state-machines/15.4-pipelining-for-performance.md)
   * [15.5-Finite State Machines](lec15-state-state-machines/15.5-finite-state-machines.md)
 * [Lec16-Combinational Logic](lec16-combinational-logic/README.md)
   * [16.1-Truth Tables](lec16-combinational-logic/16.1-truth-tables.md)
